@@ -1,0 +1,5 @@
+{
+  "priorityClasses": ["Net", "Display", "Media", "HIDClass"],
+  "maxRetries": 3,
+  "allowPnPScan": true
+}
